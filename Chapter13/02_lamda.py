@@ -1,0 +1,10 @@
+# def square(n):
+#     return n*n
+
+# print(square(5))
+
+square = lambda x:x*x
+print(square(5))
+
+add = lambda a,b,c: a+b+c
+print(add(4,6,7))
