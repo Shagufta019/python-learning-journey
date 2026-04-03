@@ -7,16 +7,16 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - **Problem Solving**: Check out the practice sets for various scenarios and solutions to build logic and coding skills.
 - **Syntax Reference**: Use the provided code examples as quick references for syntax and Python's core concepts (data types, loops, object-oriented programming, etc.).
 
-## Chapter1
+## Chapter01
 - first.py
 - module.py
 
-### Practice set of chapter1
+### Practice set of chapter01
 - Problem1.py
 - Problem3.py
 - Problem4.py
 
-## Chapter2
+## Chapter02
 - 01_variable.py
 - 02_datatype.py
 - 03_rules_variable.py
@@ -24,7 +24,7 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - 05_type.py
 - 06_input.py
 
-### Practice set of chapter2
+### Practice set of chapter02
 - Problem1.py
 - Problem2.py
 - Problem3.py
@@ -32,33 +32,33 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - Problem5.py
 - Problem6.py
 
-## Chapter3
+## Chapter03
 - 01_intro_to_strings.py
 - 02_negative_slicing.py
 - 03_str_function.py
 - 04_escape_seq.py
 
-### Practice set of chapter3
+### Practice set of chapter03
 - Problem1.py
 - Problem2.py
 - Problem3.py
 - Problem4.py
 - Problem5.py
 
-## Chapter4
+## Chapter04
 - 01_list.py
 - 02_list_methods.py
 - 03_tuple.py
 - 04_tuple_methods.py
 
-### Practice set of chapter4
+### Practice set of chapter04
 - Problem1.py
 - Problem2.py
 - Problem3.py
 - Problem4.py
 - Problem5.py
 
-## Chapter5
+## Chapter05
 - 01_dictionary.py
 - 02_dictionary_methods.py
 - 03_sets.py
@@ -66,7 +66,7 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - 05_set_union_inter.py
 - tempCodeRunnerFile.py
 
-### Practice set of chapter5
+### Practice set of chapter05
 - Problem1.py
 - Problem2.py
 - Problem3.py
@@ -76,12 +76,12 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - Problem7.py
 - Problem8.py
 
-## Chapter6
+## Chapter06
 - 01_conditionals.py
 - 02_if_elif_else_ladder.py
 - 03_multiple_if_statement.py
 
-### Practice set of chapter6
+### Practice set of chapter06
 - Problem1.py
 - Problem2.py
 - Problem3.py
@@ -90,7 +90,7 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - Problem6.py
 - Problem7.py
 
-## Chapter7
+## Chapter07
 - 01_loops.py
 - 02_while_loop.py
 - 03_list_using_while_loop.py
@@ -101,7 +101,7 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - 08_break_and_continue.py
 - 09_pass.py
 
-### Practice set of chapter7
+### Practice set of chapter07
 - Problem1.py
 - Problem10.py
 - Problem2.py
@@ -113,14 +113,14 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - Problem8.py
 - Problem9.py
 
-## Chapter8
+## Chapter08
 - 01_function.py
 - 02_quick_quiz.py
 - 03_function_with_argument.py
 - 04_default_arguments.py
 - 05_recursion.py
 
-### Practice set of chapter8
+### Practice set of chapter08
 - Problem1.py
 - Problem2.py
 - Problem3.py
@@ -130,7 +130,7 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - Problem7.py
 - Problem8.py
 
-## Chapter9
+## Chapter09
 - 01_file.py
 - 02_file_write.py
 - 03_file_functions.py
@@ -140,7 +140,7 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - my1file.txt
 - myfile.txt
 
-### Practice set of chapter9
+### Practice set of chapter09
 - 5file.txt
 - 6log.txt
 - Problem1.py
