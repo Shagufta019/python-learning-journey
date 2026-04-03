@@ -103,7 +103,6 @@ Welcome to the **python learning journey** repository! This repository is dedica
 
 ### Practice set of chapter07
 - Problem1.py
-- Problem10.py
 - Problem2.py
 - Problem3.py
 - Problem4.py
@@ -112,6 +111,7 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - Problem7.py
 - Problem8.py
 - Problem9.py
+- Problem10.py
 
 ## Chapter08
 - 01_function.py
@@ -143,9 +143,11 @@ Welcome to the **python learning journey** repository! This repository is dedica
 ### Practice set of chapter09
 - 5file.txt
 - 6log.txt
+- donkey.txt
+- hiscore.txt
+- old.txt
+- poem.txt
 - Problem1.py
-- Problem10.py
-- Problem11.py
 - Problem2.py
 - Problem3.py
 - Problem4.py
@@ -154,10 +156,8 @@ Welcome to the **python learning journey** repository! This repository is dedica
 - Problem7.py
 - Problem8.py
 - Problem9.py
-- donkey.txt
-- hiscore.txt
-- old.txt
-- poem.txt
+- Problem10.py
+- Problem11.py
 - renamed_by_python.txt
 - this.txt
 - this_copy.txt
